@@ -17,7 +17,7 @@ The following five sampling techniques were used in this project:
 
 4. **Cluster Sampling:** A sampling technique where the population is divided into clusters, and a sample of clusters is randomly selected. Then, all members of the selected clusters are included in the sample.
 
-5. **CQuota Sampling:** A non-probability sampling technique where the sample is chosen based on its convenience to the researcher.
+5. **Quota Sampling:** A non-probability sampling technique where the sample is chosen based on its convenience to the researcher.
 
 ## Comparison Table
 
